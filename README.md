@@ -1,11 +1,14 @@
 
-## Hello, i am Anny Karoliny!  <img align="center" alt="Anny-CSS" height="130"  src="https://user-images.githubusercontent.com/76567965/130885517-49be6805-ecb7-463f-8cb1-0f2a89cc4538.png">
+## Hello, i am Anny Karoliny!  <img align="center" alt="Anny-CSS" height="130"  src="https://user-images.githubusercontent.com/76567965/130891453-30f8c576-86cc-474e-bd16-55081cbc3521.png">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Anny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Anny-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Anny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Anny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  
+
   
 </div>
   
